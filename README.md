@@ -7,5 +7,5 @@ The code is an adaptation of the model from Magnotti, Ma & Beauchamp (2013), and
 
 ![SIM-DATA](https://user-images.githubusercontent.com/74515191/117729308-94140f80-b1e2-11eb-9dde-c6175d899eb1.png)
 
-Pictured above are the results of the data simulation across 15,000 trials. As you can see the probability matching strategy predicts substantially more 'lapses' in relatively straightforward stimulus conditions (i.e 0 or +400 async).
+Pictured above are the results of the data simulation across 15,000 trials. As you can see the probability matching strategy predicts substantially more 'lapses' in relatively straightforward stimulus conditions (i.e 0 or +400 async). You should be able to replicate this simulation using the CIMS-SIM.ipynb code & the SIM_DATA.xlsx file.
 
