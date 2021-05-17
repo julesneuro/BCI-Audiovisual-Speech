@@ -12,7 +12,7 @@ Pictured above are the results of the data simulation across 15,000 trials. As y
 
 After the model was fit (using the CIMS-FIT.ipynb file) we plotted the observed data, CIMS-MS and CIMS-PM model predictions vs the original Magnotti et al. (2013) dataset.!
 
-[GROUP_PLOT_NF](https://user-images.githubusercontent.com/74515191/118531687-04201980-b73e-11eb-91d0-d8f1ad185000.png)
+![GROUP_PLOT_NF](https://user-images.githubusercontent.com/74515191/118531687-04201980-b73e-11eb-91d0-d8f1ad185000.png)
 
 Unfortunately it appears that our dataset wasn't simulated to be similiar to human performance. This largely limited the models ability to fit any of the data, as it is based on the assumption that human performance in simultaneity judgement tasks follows a gaussian -- see Vroomen & Keetels (2010) _Attention, Perception & Psychophysics_.
 
